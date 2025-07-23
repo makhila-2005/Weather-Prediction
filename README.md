@@ -72,7 +72,3 @@ Integrate real-time weather API for live predictions.
 Deploy model with a Flask/Django web interface.
 
 Explore deep learning methods for better accuracy.
-
-
-
-# Weather-Prediction
